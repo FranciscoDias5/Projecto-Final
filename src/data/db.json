@@ -1,0 +1,34 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "Primeiros passos com React",
+			"body": "Aprenda a construir aplicativos reativos com React. Nova geração de componentes, hooks e roteamento."
+		},
+		{
+			"id": 2,
+			"title": "Componentes em React",
+			"body": "Os componentes são o coração do React. Aprenda como criar componentes reutilizáveis e eficientes."
+		},
+		{
+			"id": 3,
+			"title": "Estado e Ciclo de Vida",
+			"body": "Entenda o estado do componente e o ciclo de vida para construir aplicações reativas."
+		},
+		{
+			"id": 4,
+			"title": "Hooks no React",
+			"body": "Os Hooks proporcionam uma nova forma de usar estado e outras características do React sem escrever classes."
+		},
+		{
+			"id": 5,
+			"title": "React e Redux como integrar",
+			"body": "Integre o Redux ao seu aplicativo React para gerenciar o estado global de maneira eficiente."
+		},
+		{
+			"id": 6,
+			"title": "Roteamento com React Router",
+			"body": "Adicione roteamento à sua aplicação React para criar single-page applications (SPA) com eficiência."
+		}
+	]
+}
